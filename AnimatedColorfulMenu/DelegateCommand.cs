@@ -7,6 +7,7 @@ using System.Windows.Input;
 
 namespace AnimatedColorfulMenu
 {
+    //Что то
     class DelegateCommand : ICommand
     {
         Action<object> execute;
