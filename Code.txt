@@ -1,0 +1,6 @@
+<StackPanel Orientation="Horizontal" >
+                    <Button Style="{StaticResource BtnClk}" HorizontalAlignment="Left">
+                        <materialDesign:PackIcon Kind="Plus"/>
+                    </Button>
+                    <Button Content="Unit 1" Style="{StaticResource BtnClk}" Width="234" />
+                </StackPanel>
